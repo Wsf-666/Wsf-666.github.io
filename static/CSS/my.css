@@ -1,1 +1,7 @@
 body{background-color: antiquewhite;}
+.myCanvas {
+    margin-top: 10px;
+    margin-left: 10px;
+    background: #FFF;
+    border: thin solid #AAA;
+}
